@@ -6,7 +6,7 @@ Created by <a href="https://github.com/abhat222"><strong>Asif Bhat</strong></a>
  LinkedIn <a href="https://www.linkedin.com/in/asif-bhat/"><strong>Asif Bhat</strong></a>
 </p>
  
-# Data Science Cheatsheets
+# Data Science Cheatsheets (from https://github.com/abhat222/Data-Science--Cheat-Sheet)
 
 List of Data Science Cheatsheets :
 
